@@ -1,4 +1,4 @@
-=# Machine Learning Project
+Machine Learning Project
 
 ## Overview
 This project involves [briefly describe what the notebook does, e.g., "building a machine learning model to predict..."]. The notebook includes data preprocessing, exploratory data analysis (EDA), model training, evaluation, and visualization of results.
